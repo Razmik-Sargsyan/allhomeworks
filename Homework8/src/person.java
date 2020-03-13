@@ -8,8 +8,9 @@ public class person {
     void sendmoney (person otherperson, int ammount){
     balance-= ammount;
     otherperson.balance+=ammount;
-
     }
+
+
 
 }
 
